@@ -19,3 +19,7 @@ declare module 'egg' {
   }
 
 }
+
+export {
+  sequelize
+}
