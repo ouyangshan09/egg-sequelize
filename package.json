@@ -18,7 +18,8 @@
     "mkdirp": "^0.5.1",
     "mz-modules": "^2.1.0",
     "sequelize": "^4.4.2",
-    "sequelize-cli": "^4.0.0"
+    "sequelize-cli": "^4.0.0",
+    "ts-node": "^7.0.0"
   },
   "devDependencies": {
     "autod": "^2.9.0",
