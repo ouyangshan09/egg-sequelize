@@ -1,5 +1,5 @@
 {
-  "name": "egg-sequelize",
+  "name": "@oys/egg-sequelize",
   "version": "3.1.5",
   "description": "egg Sequelize plugin",
   "eggPlugin": {
