@@ -1,11 +1,11 @@
 'use strict';
 
 exports.sequelize = {
-  port: '3306',
+  port: 3306,
   host: '127.0.0.1',
   username: 'root',
-  password: '',
-  database: 'test',
+  password: '123456',
+  database: 'demo',
   dialect: 'mysql',
   pool: {
     max: 5,
